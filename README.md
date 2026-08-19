@@ -196,12 +196,12 @@ Explore the pinned repositories for additional AI, backend, cloud, DevOps and au
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alif15608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alif15608&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165" src="https://github-readme-stats-xi-gray-95.vercel.app/api?username=Alif15608&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats-xi-gray-95.vercel.app/api/top-langs/?username=Alif15608&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Alif15608&theme=tokyonight&hide_border=true" />
+<img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
 ---
