@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ashraful+Hossain+Alif;Software+Engineer+%7C+Applied+AI+%26+Cloud+Engineer;Building+scalable+AI%2C+backend+%26+cloud+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ashraful+Hossain+Alif;Software+Engineer+%7C+Applied+AI+%26+Cloud+Engineer;Building+scalable+AI%2C+Backend+%26+Cloud+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -16,7 +16,7 @@
 
 ### 👋 About Me
 
-I'm a **Software Engineer & Applied AI Engineer** with 3 years of professional experience building production systems across AI, backend engineering, cloud infrastructure and telecom. Experienced in Python, FastAPI, Django, LLM applications, RAG, Docker, Kubernetes, Databases and automation. Focused on building reliable systems that solve real business problems at scale.
+I'm a **Software Engineer & Applied AI Engineer** with more than 3 years of professional experience building production systems across AI, backend engineering, cloud infrastructure and telecom. Experienced in Python, FastAPI, Django, LLM applications, RAG, Docker, Kubernetes, Databases and automation. Focused on building reliable systems that solve real business problems at scale.
 
 - 🔭 Currently building **telecom performance monitoring systems** processing large-scale CDR data at **Mir Telecom Ltd.**
 - 🤖 Deep focus on **AI/ML** — LLMs, RAG pipelines, AI agents and NLP-driven applications
@@ -83,10 +83,10 @@ I'm a **Software Engineer & Applied AI Engineer** with 3 years of professional e
 <br/>
 Enterprise-grade multi-LLM platform enhanced with RBAC, analytics, user feedback, and secure AI-powered document chat capabilities.
 <br/>
-`Python` `FastAPI` `React` `TypeScript` `Tailwind CSS` `OpenAI` Anthropic` `Ollama` `PostgreSQL` `Redis` `Docker` `Kubernetes`
+`Python` `FastAPI` `React` `TypeScript` `Tailwind CSS` `OpenAI` `Anthropic` `Ollama` `PostgreSQL` `Redis` `Docker` `Kubernetes`
 <br/>
 
-**🔗 [Source Code] (https://github.com/Alif15608/open-webui)**
+**🔗 https://github.com/Alif15608/open-webui**
 
 </td>
 <td width="50%" valign="top">
@@ -98,7 +98,7 @@ Extended an enterprise AI workflow platform with telecom AI assistants, OCR docu
 `Python` `FastAPI` `React` `TypeScript` `Langchain` `OpenAI` `PostgreSQL` `Redis` `OCR` `RAG` `Docker` `Kubernetes`
 <br/>
 
-**🔗 [Source Code] (https://github.com/Alif15608/dify)**
+**🔗 https://github.com/Alif15608/dify**
 
 
 </td>
@@ -113,8 +113,10 @@ Scalable enterprise commerce platform featuring REST APIs, authentication, RBAC,
 `Python` `Django` `FastAPI` `PostgreSQL` `Redis` `JWT` `Celery` `Websocket` `React` `Vite` `Nginx` `Terraform` `Docker` `GitHub Actions` 
 <br/>
 
-**🔗 [Live Demo] (https://enterprise-commerce-platform-7w9vj0f95.vercel.app/)**
-**🔗 [Source Code] (https://github.com/Alif15608/enterprise-commerce-platform)**
+**🔗 https://enterprise-commerce-platform-7w9vj0f95.vercel.app/**
+<br/>
+
+**🔗 https://github.com/Alif15608/enterprise-commerce-platform**
 
 </td>
 <td width="50%" valign="top">
@@ -126,8 +128,10 @@ Co-led AI-powered telecom performance analysis systems processing large-scale CD
 `Python` `Django` `FastAPI` `MySQL` `Redis` `Celery` `Rest API` `JavaScript` `Nginx` `Waitress` `Linux`
 <br/>
 
-**🔗 [Live System] (http://103.134.89.68:8000/)**
-**🔗 [Live System 2] (http://123.176.58.101:8000/)**
+**🔗 http://103.134.89.68:8000/**
+<br/>
+
+**🔗 http://123.176.58.101:8000/**
 
 </td>
 </tr>
@@ -141,7 +145,7 @@ Extended OpenTofu with reusable Infrastructure-as-Code modules, automated deploy
 `OpenTofu` `Terraform` `Docker` `Kubernetes` `GitHub Actions` `Grafana` `Linux`
 <br/>
 
-**🔗 [Source Code] (https://github.com/Alif15608/opentofu)**
+**🔗 https://github.com/Alif15608/opentofu**
 
 </td>
 <td width="50%" valign="top">
@@ -151,7 +155,7 @@ Extended OpenTofu with reusable Infrastructure-as-Code modules, automated deploy
 Explore the pinned repositories for additional AI, backend, cloud, DevOps and automation projects.
 <br/>
 
-**See Pinned Repos**
+**--> See Pinned Repos**
 
 </td>
 </tr>
@@ -179,7 +183,10 @@ Explore the pinned repositories for additional AI, backend, cloud, DevOps and au
 
 ### 📚 Publication
 
-[*Stand up Against Bad Intended News: An Approach to Detect Fake News using Machine Learning*] (https://www.ijournalse.org/index.php/ESJ/article/view/1651) — **Emerging Science Journal**, July 2023
+*Stand up Against Bad Intended News: An Approach to Detect Fake News using Machine Learning* — **Emerging Science Journal**, July 2023
+<br/>
+
+**🔗 https://www.ijournalse.org/index.php/ESJ/article/view/1651**
 
 ---
 
